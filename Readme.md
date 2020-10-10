@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀️ Front-end Web 💈️💇‍♂️️ GoBarber 💅️✂️
+  🚀️ Front-end Web myBank 
 </h1>
 
 <p align="center">
