@@ -14,7 +14,7 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/gabriel4420/mybank">
 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
-    <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-Rodrigues-%2304D361">
+    <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
   </a>
 </p>
 
