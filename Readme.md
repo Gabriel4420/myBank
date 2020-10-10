@@ -20,12 +20,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Gif da Aplicação" src="./src/assets/spoiler.gif" />
-</p>
-
----
-
 # Indice
 
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
